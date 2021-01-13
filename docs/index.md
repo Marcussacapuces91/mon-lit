@@ -39,6 +39,7 @@ On obtient donc 2 barres biseautées.
 ![](Pied3.png)
 6. La planche reçoit dans sa rainure la barre biseautée précédente qui sera collées et vissée par le dessus de la planche.
 7. _Les tronçons de planche supplémentaires ne seront ajoutés qu'après constitution du reste du cadre._
+
 ![](Pied4.png)
 
 
