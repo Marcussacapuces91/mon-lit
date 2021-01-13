@@ -22,7 +22,7 @@ L'ensemble forme un T en section, composée de 2 planches de 1m de long et fixé
 
 On va partir sur une quantité de 5 :
 
-> [🛒 :shopping_cart: Planche douglas petits nœuds raboté, 100 x 28 mm, long 250 cm](https://www.leroymerlin.fr/v3/p/produits/planche-douglas-petits-noeuds-rabote-100x28-mm-long-250cm-e133258)
+> [:shopping_cart: Planche douglas petits nœuds raboté, 100 x 28 mm, long 250 cm](https://www.leroymerlin.fr/v3/p/produits/planche-douglas-petits-noeuds-rabote-100x28-mm-long-250cm-e133258)
 
 On va procéder comme suit :
 
