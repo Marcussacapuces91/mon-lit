@@ -20,31 +20,50 @@ Les pieds sont formés d'une barre transversale au lit sur laquelle repose le re
 
 L'ensemble forme un T en section, composée de 2 planches de 1m de long et fixées entre-elles, sur lesquelles vient une troisième planche horizontale pourvue d'une rainure recevant les 2 précédentes. Enfin, les tronçons d'une 4<sup>ème</sup> planche viennent renforcer et fixer les éléments de soutient du sommier.
 
-On va partir sur une quantité de 5 :
+On va partir sur une quantité de 4 :
 
-> [🛒 Planche douglas petits nœuds raboté, 100 x 28 mm, long 250 cm (@leroy)](https://www.leroymerlin.fr/v3/p/produits/planche-douglas-petits-noeuds-rabote-100x28-mm-long-250cm-e133258)
+> [Planche douglas petits nœuds raboté, 100 x 28 mm, long 250 cm (🛒 Leroy-Merlin)](https://www.leroymerlin.fr/v3/p/produits/planche-douglas-petits-noeuds-rabote-100x28-mm-long-250cm-e133258)
 
-On va procéder comme suit :
+#### Découper
 
-1. Coller et assembler 2 planches de 100 mm. Ajouter des vis de part et d'autre pour les maintenir serrées ;
+1. Prélever sur chacune des 4 planches une longueur de 100 cm ;
+2. Il reste donc 4 planches de 150 cm ;
+3. Partager 2 (des 4) planches de 150 cm en deux (75 cm) ;
+4. Vous aurez donc :
+   - 2 planches de 150 cm ;
+   - 4 planches de 100 cm ;
+   - 4 planches de 75 cm.
+
+#### Assembler la partie centrale du pied
+
+1. Coller et assembler 2 planches de 100 cm. Serre-jointer et ajouter des vis 5 x 40 de part et d'autre pour maintenir les planches serrées ;
 ![](Pied1.png)
 2. Découper les biseaux à 45° aux extrémités en laissant 1 cm de bois vertical ;
 ![](Pied2.png)
 3. Arrondir les bords (sauf dessus) à la défonceuse (fraise <sup>1</sup>/<sub>4</sub> de rond).
 4. Répéter une seconde fois pour former 2 pieds.
 
-On obtient donc 2 barres biseautées.
+On obtient ainsi 2 barres biseautées.
 
-5. Une planche de 142/150 mm recevra une rainure centrale de `28 * 2 = 56 mm` de large sur 1 m de long centrée sur la planche et d'une profondeur de 1 à 2 mm (_la profondeur doit être la même sur les 2 pieds et sur toute leur longueur_).
+#### Mettre la barre au T
+
+1. Une planche de 142/150 cm recevra une rainure centrale de `28 * 2 = 56 mm` de large sur 1 m de long centrée sur la planche et d'une profondeur de 1 à 2 mm (_la profondeur doit être la même sur les 2 pieds et sur toute leur longueur_).
 ![](Pied3.png)
-6. La planche reçoit dans sa rainure la barre biseautée précédente qui sera collées et vissée par le dessus de la planche.
-7. _Les tronçons de planche supplémentaires ne seront ajoutés qu'après constitution du reste du cadre._
+2. La planche reçoit dans sa rainure la barre biseautée précédente après encollage. Vérifier l'équerrage et serre-jointer avant de  visser par le dessus de la planche.
+3. _Les tronçons de planche supplémentaires ne seront ajoutés qu'après constitution du reste du cadre._
 
-![](Pied4.png)
+![Schéma de la réalisation terminée](Pied4.png)
+
+### Tête de lit
+
+#### Empilement
 
 
+### Cadre et support du sommier
 
+#### Côtés
 
+#### Pieds
 
 
 
