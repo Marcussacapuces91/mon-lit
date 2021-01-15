@@ -1,15 +1,17 @@
 ## Bienvenue dans la doc de "mon-lit" une réalisation d'un cadre de lit **190x140** en bois.
 
-J'ai commencé par le modéliser avec l'outil [OpenSCAD](https://www.openscad.org/) afin d'estimer les éléments qu'il me faudra approvisionner pour le construire.
+Le lit mesure près de 2,50 m de large et 2 m de long puisqu'il inclut une tête de lit avec des consoles latérales. Il pourra recevoir un sommier à lattes fin (pas de tapissier) d'environ 5 cm d'épaisseur et d'un matelas par dessus qui sera calé aussi par 5 cm de bois.
 
-Afin de faciliter sa construction je me limite en approvisionnement en matériaux : planches et tasseaux de pin, ferrures d'assemblage, vis, colle vinylique. 
+Afin de faciliter sa construction je me limite en approvisionnement en matériaux : planches et tasseaux de pin, ferrures d'assemblage, vis, colle vinylique.
 
 Suivant votre budget, certaines planches peuvent être approvisionnées en chêne (tête et cadre) plutôt qu'en pin.
 
-- Planches pin raboté 200 x 28 (plus de 2 m de long) ;
-- Planches pin raboté 100 x 28 (plus de 2 m de long) ;
+- Planches pin raboté 200 x 28 (plus de 2,5 m de long) ;
+- Planches pin raboté 100 x 28 (plus de 1,5 m de long) ;
 - Tasseaux pin raboté 50 x 30 approx. (plus de 2 m de long) ;
 - Ferrures d'angle de lit, équerres de fixation, visserie, tourillons, colle blanche.
+
+J'ai commencé par le modéliser avec l'outil [OpenSCAD](https://www.openscad.org/) afin d'estimer les éléments qu'il me faudra approvisionner pour le construire.
 
 ![](https://github.com/Marcussacapuces91/mon-lit/raw/main/OpenSCAD/lit.png)
 
