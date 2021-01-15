@@ -11,7 +11,7 @@ Suivant votre budget, certaines planches peuvent être approvisionnées en chên
 - Tasseaux pin raboté 50 x 30 approx. (plus de 2 m de long) ;
 - Ferrures d'angle de lit, équerres de fixation, visserie, tourillons, colle blanche.
 
-![](../OpenSCAD/lit.png)
+![](https://github.com/Marcussacapuces91/mon-lit/blob/main/OpenSCAD/lit.png)
 
 ### Pieds
 
