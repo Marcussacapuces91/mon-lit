@@ -59,8 +59,35 @@ On obtient ainsi 2 barres biseautées.
 
 ### Tête de lit
 
+La tête de lit est réalisée par un empilement de planches (rabotées) ; elle pourra être complétée par une baguette d'angle, voir par des tasseaux équipés d'une rainure pour recevoir ces planches sur les 3 côtés.
+
 #### Empilement
 
+L'empilement sera assuré par le positionnement de tourillons diam. 10x40. Le percement se fera avec un guide de perçage afin de garantir l'alignement parfait des trous sur les 2 planches successives.
+
+1. **Tracer :**
+<br/>
+Aligner les 2 planches et tracer simultanément sur les 2 planches tous les 20 cm à partir de 10 cm du bord, prolonger les repères sur la tranche à l'aide d'une équerre.
+<br/>
+![Tracer](tracer.png)
+
+2. **Percer :**
+<br/>
+À l'aide d'un guide, percer au milieu de chaque tranche de planche en respect des traçages précédents. Respecter une profondeur de perçage à la moitié de la longueur des tourillons.
+<br/>
+![Percer](percer.png)
+
+3. **Coller :**
+<br/>
+Encoller les tranches et les trous de perçage avant de placer les tourillons. Étaler la colle afin qu'elle couvre parfaitement les 2 tranches.
+<br/>
+![Encoller](encoller.png)
+
+4. **Serrer :**
+<br/>
+Mettre l'ensemble sous presse pendant 24h, en s'assurant de la planéité de l'assemblage.
+<br/>
+![Serrer](serrer.png)
 
 ### Cadre et support du sommier
 
