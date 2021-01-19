@@ -23,9 +23,9 @@ Les pieds sont formés d'une barre transversale au lit sur laquelle repose le re
 
 L'ensemble forme un T en section, composée de 2 planches de 1m de long et fixées entre-elles, sur lesquelles vient une troisième planche horizontale pourvue d'une rainure recevant les 2 précédentes. Enfin, les tronçons d'une 4<sup>ème</sup> planche viennent renforcer et fixer les éléments de soutient du sommier.
 
-On va partir sur une quantité de 4 :
+On va partir sur :
 
-> [Planche douglas petits nœuds raboté, 100 x 28 mm, long 250 cm (🛒 Leroy-Merlin)](https://www.leroymerlin.fr/v3/p/produits/planche-douglas-petits-noeuds-rabote-100x28-mm-long-250cm-e133258)
+> [4 Planches douglas petits nœuds raboté, 100 x 28 mm, long 250 cm (🛒 Leroy-Merlin)](https://www.leroymerlin.fr/v3/p/produits/planche-douglas-petits-noeuds-rabote-100x28-mm-long-250cm-e133258)
 
 #### Découper
 
@@ -60,6 +60,13 @@ On obtient ainsi 2 barres biseautées.
 ### Tête de lit
 
 La tête de lit est réalisée par un empilement de planches (rabotées) ; elle pourra être complétée par une baguette d'angle, voir par des tasseaux équipés d'une rainure pour recevoir ces planches sur les 3 côtés.
+
+On utilisera :
+> [5 Planches douglas petits nœuds raboté, 200 x 28 mm, long 250 cm (🛒 Leroy-Merlin)](https://www.leroymerlin.fr/v3/p/produits/planche-douglas-petits-noeuds-rabote-200x28-mm-long-250cm-e133257)
+
+> 100 Tourillons diam. 10 x 40 mm.
+
+> Colle à bois vinylique type D3 ou mieux colle PU.
 
 #### Empilement
 
