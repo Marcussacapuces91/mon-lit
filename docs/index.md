@@ -25,7 +25,7 @@ L'ensemble forme un T en section, composée de 2 planches de 1m de long et fixé
 
 On va partir sur :
 
-> [4 Planches douglas petits nœuds raboté, 100 x 28 mm, long 250 cm (🛒 Leroy-Merlin)](https://www.leroymerlin.fr/v3/p/produits/planche-douglas-petits-noeuds-rabote-100x28-mm-long-250cm-e133258)
+- [4 Planches douglas petits nœuds raboté, 100 x 28 mm, long 250 cm (🛒 Leroy-Merlin)](https://www.leroymerlin.fr/v3/p/produits/planche-douglas-petits-noeuds-rabote-100x28-mm-long-250cm-e133258) ; Vérifiez bien l'égalité de largeur des planches…
 
 #### Découper
 
@@ -55,6 +55,7 @@ On obtient ainsi 2 barres biseautées, comme ci-dessous :
 1. Une planche de 142/150 cm recevra une rainure centrale de `28 * 2 = 56 mm` de large sur 1 m de long centrée sur la planche et d'une profondeur de 1 à 2 mm (_la profondeur doit être la même sur les 2 pieds et sur toute leur longueur_).
 ![](Pied3.png)
 2. La planche reçoit dans sa rainure la barre biseautée précédente après encollage. Vérifier l'équerrage et serre-jointer avant de  visser par le dessus de la planche.
+![Barre collée et serrée sur la planche](20210121_153921.jpg)
 3. _Les tronçons de planche supplémentaires ne seront ajoutés qu'après constitution du reste du cadre._
 
 ![Schéma de la réalisation terminée](Pied4.png)
@@ -65,16 +66,20 @@ On obtient ainsi 2 barres biseautées, comme ci-dessous :
 La tête de lit est réalisée par un empilement de planches (rabotées) ; elle pourra être complétée par une baguette d'angle, voir par des tasseaux équipés d'une rainure pour recevoir ces planches sur les 3 côtés.
 
 On utilisera :
-> [5 Planches douglas petits nœuds raboté, 200 x 28 mm, long 250 cm (🛒 Leroy-Merlin)](https://www.leroymerlin.fr/v3/p/produits/planche-douglas-petits-noeuds-rabote-200x28-mm-long-250cm-e133257)
 
-> 100 Tourillons diam. 10 x 40 mm.
-
-> Colle à bois vinylique type D3 ou mieux colle PU.
+- [5 Planches douglas petits nœuds raboté, 200 x 28 mm, long 250 cm (🛒 Leroy-Merlin)](https://www.leroymerlin.fr/v3/p/produits/planche-douglas-petits-noeuds-rabote-200x28-mm-long-250cm-e133257) ;
+- 100 Tourillons ⌀10 x 40 mm ;
+- Colle à bois vinylique type D3 ou mieux colle PU (⚠ Ça tache !).
 
 
 #### Empilement
 
-L'empilement sera assuré par le positionnement de tourillons diam. 10x40. Le percement se fera avec un guide de perçage afin de garantir l'alignement parfait des trous sur les 2 planches successives.
+L'empilement sera assuré par le positionnement de tourillons ⌀10 x 40 mm. Le percement se fera avec un guide de perçage afin de garantir l'alignement parfait des trous sur les 2 planches successives.
+
+Choisir des planches et orienter les cernes cœur contre cœur et bord contre bord, les cernes toujours dans le même sens :
+
+![]()https://www.lairdubois.fr/media/cache/1024x1024i/f951ba73f8bbc84629cf16746fd548f8eba13139.jpg)
+_[D'après L'air du bois](https://www.lairdubois.fr/trouvailles/925-comment-bien-assembler-des-lames-de-bois-massif-en-panneau.html)_
 
 1. **Tracer :**
 <br/>
@@ -105,54 +110,3 @@ Mettre l'ensemble sous presse pendant 24h, en s'assurant de la planéité de l'a
 #### Côtés
 
 #### Pieds
-
-
-
-
-
-
-
-
-
-
-<!--
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Marcussacapuces91/mon-lit/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Marcussacapuces91/mon-lit/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-
--->
