@@ -13,7 +13,7 @@ Suivant votre budget, certaines planches peuvent être approvisionnées en chên
 
 J'ai commencé par le modéliser avec l'outil [OpenSCAD](https://www.openscad.org/) afin d'estimer les éléments qu'il me faudra approvisionner pour le construire.
 
-![](https://github.com/Marcussacapuces91/mon-lit/raw/main/OpenSCAD/lit.png)
+![Image générale](https://github.com/Marcussacapuces91/mon-lit/raw/main/OpenSCAD/lit.png)
 
 ### Pieds
 
@@ -46,7 +46,9 @@ On va partir sur :
 3. Arrondir les bords (sauf dessus) à la défonceuse (fraise <sup>1</sup>/<sub>4</sub> de rond).
 4. Répéter une seconde fois pour former 2 pieds.
 
-On obtient ainsi 2 barres biseautées.
+On obtient ainsi 2 barres biseautées, comme ci-dessous :
+
+![Barre biseautée](20210121_102932.jpg)
 
 #### Mettre la barre au T
 
@@ -56,6 +58,7 @@ On obtient ainsi 2 barres biseautées.
 3. _Les tronçons de planche supplémentaires ne seront ajoutés qu'après constitution du reste du cadre._
 
 ![Schéma de la réalisation terminée](Pied4.png)
+
 
 ### Tête de lit
 
@@ -67,6 +70,7 @@ On utilisera :
 > 100 Tourillons diam. 10 x 40 mm.
 
 > Colle à bois vinylique type D3 ou mieux colle PU.
+
 
 #### Empilement
 
