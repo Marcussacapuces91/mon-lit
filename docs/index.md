@@ -78,8 +78,12 @@ L'empilement sera assuré par le positionnement de tourillons ⌀10 x 40 mm. Le 
 
 Choisir des planches et orienter les cernes cœur contre cœur et bord contre bord, les cernes toujours dans le même sens :
 
-![]()https://www.lairdubois.fr/media/cache/1024x1024i/f951ba73f8bbc84629cf16746fd548f8eba13139.jpg)
-_[D'après L'air du bois](https://www.lairdubois.fr/trouvailles/925-comment-bien-assembler-des-lames-de-bois-massif-en-panneau.html)_
+<figure markdown=1>
+![](https://www.lairdubois.fr/media/cache/1024x1024i/f951ba73f8bbc84629cf16746fd548f8eba13139.jpg)
+  <figcaption>
+    [D'après L'air du bois](https://www.lairdubois.fr/trouvailles/925-comment-bien-assembler-des-lames-de-bois-massif-en-panneau.html)
+  </figcaption>
+</figure>
 
 1. **Tracer :**
 <br/>
