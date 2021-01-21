@@ -76,8 +76,7 @@ On utilisera :
 
 L'empilement sera assuré par le positionnement de tourillons ⌀10 x 40 mm. Le percement se fera avec un guide de perçage afin de garantir l'alignement parfait des trous sur les 2 planches successives.
 
-Choisir des planches et orienter les cernes cœur contre cœur et bord contre bord, les cernes toujours dans le même sens :
-
+> Choisir des planches et orienter les cernes cœur contre cœur et bord contre bord, les cernes toujours dans le même sens :
 <figure markdown=1>
 ![](https://www.lairdubois.fr/media/cache/1024x1024i/f951ba73f8bbc84629cf16746fd548f8eba13139.jpg)
   <figcaption markdown=1>
