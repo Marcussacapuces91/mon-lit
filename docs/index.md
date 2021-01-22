@@ -124,7 +124,7 @@ Le cadre est composé par 3 planches de 20 mm de hauteur attachées par des char
 4. Coller et visser les tasseaux de 50 mm sur le second quart de la hauteur de chaque planche (selon la hauteur du pied, on peu légèrement descendre le tasseau pour faire affleurer la planche du pied) et sur toute la longueur.
 5. Former les arrondis sur les 2 angles du haut de chaque planche à la défonceuse ou à l'affleureuse.
 
-
+![](Num_20210122_140932.png)
 
 
 
