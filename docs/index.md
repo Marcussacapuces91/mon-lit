@@ -113,8 +113,8 @@ Le cadre est composé par 3 planches de 20 mm de hauteur attachées par des char
 
 - [3 Planches douglas petits nœuds raboté, 200 x 28 mm, long 250 cm (🛒 Leroy-Merlin)](https://www.leroymerlin.fr/v3/p/produits/planche-douglas-petits-noeuds-rabote-200x28-mm-long-250cm-e133257) ;
 - [Lot de 6 tasseaux sapin petits noeuds brut, 32 x 50 mm, L.2.4 m (🛒 Leroy-Merlin)](https://www.leroymerlin.fr/v3/p/produits/lot-de-6-tasseaux-sapin-petits-noeuds-brut-32-x-50-mm-l-2-4-m-e62068) ;
-- 4 ferrures de lit bloquantes (à vis)<br/>![Ferrure d'angle](OPE.jpg) ou ![Ferrure d'angle](OIP.jpg) ;
-- 2 ferrures de soutien de la barre centrale<br/>![Ferrure support de barre centrale](OAB.jpg).
+- 4 ferrures de lit bloquantes (à vis) :<br/>![Ferrure d'angle](OPE.jpg) ou ![Ferrure d'angle](OIP.jpg)
+- 2 ferrures de soutien de la barre centrale :<br/>![Ferrure support de barre centrale](OAB.jpg)
 
 #### Planches latérales
 
