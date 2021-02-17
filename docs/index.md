@@ -118,14 +118,26 @@ Le cadre est composé par 3 planches de 20 mm de hauteur attachées par des char
 
 #### Planches latérales
 
-1. Couper 2 planches à la longueur du sommier + 2 cm, logiquement 192 cm (mesurer ou _mieux : présenter le sommier_).
+1. Couper 2 planches de 20 cm de hauteur à la longueur du sommier, ici 190 cm (mesurer ou _mieux : présenter le sommier + 2 cm_).
+2. Couper la longueur des 2 tasseaux à 170 cm pour réserver l'emplacement des ferrures ;
+3. Tracer sur le bord de 50 mm du tasseau tous les 17 cm les pré-perçages des vis pour la fixation tasseau/planche :
+![](Num_20210217_101608.png)
+Percer au centre des traits les passages de vis à ⌀3 mm et biseauter avec une fraise pour tête de vis.
+4. Tracer sur la planche de 20 mm l'emplacement du tasseau à 35 mm du bas de la planche et à 10 cm de chaque extrémités.
+5. Encoller les 2 tasseaux sur toute leur longueur, les positionner sur chaque planche et les fixer avec des serre-joints entre chaque trou de vis. Visser avec des vis ⌀5x40mm.
+6. 
+
+
+
+
+
+
+
+------------------
+
 2. Fixer les ferrures aux extrémités à mi-hauteur de la planche.
 3. Couper la longueur des tasseaux en réservant l'emplacement des ferrures (_positionner pour s'assurer du passage du tourne-vis lors du serrage des ferrures_) ;
 4. Coller et visser les tasseaux de 50 mm sur le second quart de la hauteur de chaque planche (selon la hauteur du pied, on peut légèrement descendre le tasseau pour faire affleurer la planche du pied) et sur toute la longueur.
 5. Former les arrondis sur les 2 angles du haut de chaque planche à la défonceuse ou à l'affleureuse.
 
 ![](Num_20210122_140932.png)
-
-
-
-
