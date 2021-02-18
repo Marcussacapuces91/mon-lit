@@ -111,6 +111,8 @@ Mettre l'ensemble sous presse pendant 24h, en s'assurant de la planéité de l'a
 ### Cadre et support du sommier
 Le cadre est composé par 3 planches de 20 mm de hauteur attachées par des charnières métalliques. Des tasseaux rabotés 30 x 50 mm (env.) viendront permettre les appuis nécessaires à la fois pour les pieds fabriqués précédemment, comme pour le sommier 140 x 190 métallique à lattes cm.
 
+![](Num_20210122_140932.png)
+
 - [3 Planches douglas petits nœuds raboté, 200 x 28 mm, long 250 cm (🛒 Leroy-Merlin)](https://www.leroymerlin.fr/v3/p/produits/planche-douglas-petits-noeuds-rabote-200x28-mm-long-250cm-e133257) ;
 - [Lot de 6 tasseaux sapin petits noeuds brut, 32 x 50 mm, L.2.4 m (🛒 Leroy-Merlin)](https://www.leroymerlin.fr/v3/p/produits/lot-de-6-tasseaux-sapin-petits-noeuds-brut-32-x-50-mm-l-2-4-m-e62068) ;
 - 4 ferrures de lit bloquantes (à vis) :<br/>![Ferrure d'angle](OPE.jpg) ou ![Ferrure d'angle](OIP.jpg)
@@ -119,25 +121,25 @@ Le cadre est composé par 3 planches de 20 mm de hauteur attachées par des char
 #### Planches latérales
 
 1. Couper 2 planches de 20 cm de hauteur à la longueur du sommier, ici 190 cm (mesurer ou _mieux : présenter le sommier + 2 cm_).
+
 2. Couper la longueur des 2 tasseaux à 170 cm pour réserver l'emplacement des ferrures ;
+
 3. Tracer sur le bord de 50 mm du tasseau tous les 17 cm les pré-perçages des vis pour la fixation tasseau/planche :
 ![](Num_20210217_101608.png)
 Percer au centre des traits les passages de vis à ⌀3 mm et biseauter avec une fraise pour tête de vis.
+
 4. Tracer sur la planche de 20 mm l'emplacement du tasseau à 35 mm du bas de la planche et à 10 cm de chaque extrémités.
-5. Encoller les 2 tasseaux sur toute leur longueur, les positionner sur chaque planche et les fixer avec des serre-joints entre chaque trou de vis. Visser avec des vis ⌀5x40mm.
-6. 
 
+5. Tracer aussi sur les bords de 30 mm des tasseaux aux tiers de leur longueur, les positions de vis permettant de les fixer sur les pieds, prévoir 2 vis par extrémité à 5 cm de part et d'autre de l'axe du tiers :
+![](Num_20210218_170442.png)<br/>
+![](Num_20210218_170533.png)
+Percer et biseauter les passages des vis vers les pieds.
 
+6. Encoller les 2 tasseaux sur toute leur longueur, les positionner sur chaque planche et les fixer avec des serre-joints entre chaque trou de vis. Visser avec des vis ⌀ 5x40 mm. Laisser sécher le temps nécessaire (4h).
 
+6. Positionner les pieds sous les tasseaux au niveau des pré-perçage (Pt. 5), fixer en position (alignement, angles droits) avec un serre-joint avant de fixer avec des vis ⌀ 5x60 mm.
 
+7. Fixer les ferrures à mi-hauteur des planches entre les côtés et la planche de pied, et entre les côtés et la tête de lit.
 
+8. Former les arrondis sur les 2 angles du haut de chaque planche à la défonceuse ou à l'affleureuse.
 
-
-------------------
-
-2. Fixer les ferrures aux extrémités à mi-hauteur de la planche.
-3. Couper la longueur des tasseaux en réservant l'emplacement des ferrures (_positionner pour s'assurer du passage du tourne-vis lors du serrage des ferrures_) ;
-4. Coller et visser les tasseaux de 50 mm sur le second quart de la hauteur de chaque planche (selon la hauteur du pied, on peut légèrement descendre le tasseau pour faire affleurer la planche du pied) et sur toute la longueur.
-5. Former les arrondis sur les 2 angles du haut de chaque planche à la défonceuse ou à l'affleureuse.
-
-![](Num_20210122_140932.png)
